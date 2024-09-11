@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ymobau.github.io/WWg/sitemap.WWg.gz
